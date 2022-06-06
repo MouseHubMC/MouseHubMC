@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MouseHubMC
+- 👋 Hi, I’m MouseHub
 - 👀 I’m interested in Minecraft Modding
-- 🌱 I’m currently learning Java, Python, and batch
+- 🌱 I’m currently learning Java, and batch
 - 📫 How to reach me Discord:MouseHub#5883 user id:831261102942978059
